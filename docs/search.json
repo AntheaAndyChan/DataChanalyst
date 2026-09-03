@@ -4,7 +4,77 @@
     "href": "researcher.html",
     "title": "Andy the Researcher",
     "section": "",
-    "text": "library(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nggplot(data = mpg) +   geom_point(mapping = aes(x = displ, y = hwy))\n\n\n\n\n\n\n\n\nHi!"
+    "text": "Sexual Consent practices\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nggplot(data = mpg) +   geom_point(mapping = aes(x = displ, y = hwy))\n\n\n\n\n\n\n\n\n\n\n\nNLP\n\n\n\nEmbedded R Shiny App"
+  },
+  {
+    "objectID": "researcher.html#project-1",
+    "href": "researcher.html#project-1",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "Sexual Consent practices\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nggplot(data = mpg) +   geom_point(mapping = aes(x = displ, y = hwy))"
+  },
+  {
+    "objectID": "researcher.html#project-2",
+    "href": "researcher.html#project-2",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "NLP"
+  },
+  {
+    "objectID": "researcher.html#project-3",
+    "href": "researcher.html#project-3",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "Embedded R Shiny App"
+  },
+  {
+    "objectID": "artist.html",
+    "href": "artist.html",
+    "title": "Andy the Artist",
+    "section": "",
+    "text": "My Work"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DataChanalyst",
+    "section": "",
+    "text": "I am a lifelong painter and artist, having dabbled in mediums both digital and traditional. I use Procreate on the iPad, oil paint and watercolor, or just my sketchbook and a pencil. I visually bring to life the fantasy worlds that reside in my head.\nI’m a researcher and data analyst with 8+ years of experience turning complex survey and behavioral data into insights that inform organizational decision-making. My work sits at the intersection of rigorous statistical methods and human-centered research questions.\nI blog about social issues, online trends, and the academic research rabbit holes I fall down. I am also working on an epic 6-part fantasy series on my spare time.\n\n\nTo do: build gallery\nTo do: link to project gallery, rmarkdown files\nTo do: link to blog"
+  },
+  {
+    "objectID": "index.html#senior-research-manager-at-the-global-lab-at-coqual",
+    "href": "index.html#senior-research-manager-at-the-global-lab-at-coqual",
+    "title": "DataChanalyst",
+    "section": "",
+    "text": "I am a lifelong painter and artist, having dabbled in mediums both digital and traditional. I use Procreate on the iPad, oil paint and watercolor, or just my sketchbook and a pencil. I visually bring to life the fantasy worlds that reside in my head.\nI’m a researcher and data analyst with 8+ years of experience turning complex survey and behavioral data into insights that inform organizational decision-making. My work sits at the intersection of rigorous statistical methods and human-centered research questions.\nI blog about social issues, online trends, and the academic research rabbit holes I fall down. I am also working on an epic 6-part fantasy series on my spare time.\n\n\nTo do: build gallery\nTo do: link to project gallery, rmarkdown files\nTo do: link to blog"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "Sexual Consent practices\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nggplot(data = mpg) +   geom_point(mapping = aes(x = displ, y = hwy))\n\n\n\n\n\n\n\n\n\n\n\nNLP\n\n\n\nEmbedded R Shiny App"
+  },
+  {
+    "objectID": "publications.html#project-1",
+    "href": "publications.html#project-1",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "Sexual Consent practices\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nggplot(data = mpg) +   geom_point(mapping = aes(x = displ, y = hwy))"
+  },
+  {
+    "objectID": "publications.html#project-2",
+    "href": "publications.html#project-2",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "NLP"
+  },
+  {
+    "objectID": "publications.html#project-3",
+    "href": "publications.html#project-3",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "Embedded R Shiny App"
   },
   {
     "objectID": "about.html",
@@ -14,10 +84,136 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DataChanalyst",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Andy the Researcher",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Demo\n\n\n\n\n\n\nAndy\n\n\nApr 2, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "Sexual Consent practices\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nggplot(data = mpg) +   geom_point(mapping = aes(x = displ, y = hwy))"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "NLP"
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "Embedded R Shiny App"
+  },
+  {
+    "objectID": "ai.html",
+    "href": "ai.html",
+    "title": "On AI",
+    "section": "",
+    "text": "How do I feel about AI?\nIt sucks."
+  },
+  {
+    "objectID": "projects.html#project-1-sexual-consent-practices",
+    "href": "projects.html#project-1-sexual-consent-practices",
+    "title": "Andy the Researcher",
+    "section": "",
+    "text": "library(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.0     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.2     ✔ tibble    3.3.1\n✔ lubridate 1.9.5     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nggplot(data = mpg) +   geom_point(mapping = aes(x = displ, y = hwy))"
+  },
+  {
+    "objectID": "projects.html#project-2-incels-nlp",
+    "href": "projects.html#project-2-incels-nlp",
+    "title": "Andy the Researcher",
+    "section": "Project 2: Incels, NLP",
+    "text": "Project 2: Incels, NLP"
+  },
+  {
+    "objectID": "projects.html#project-3-embedded-r-shiny-app",
+    "href": "projects.html#project-3-embedded-r-shiny-app",
+    "title": "Andy the Researcher",
+    "section": "Project 3: Embedded R Shiny App",
+    "text": "Project 3: Embedded R Shiny App"
+  },
+  {
+    "objectID": "projects/Markdown Page.html",
+    "href": "projects/Markdown Page.html",
+    "title": "Demo",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "projects/Markdown Page.html#r-markdown",
+    "href": "projects/Markdown Page.html#r-markdown",
+    "title": "Demo",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "projects/Markdown Page.html#including-plots",
+    "href": "projects/Markdown Page.html#including-plots",
+    "title": "Demo",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nJournal Article\n\n\nOther Writing"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nJournal Article\n\n\nOther Writing"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nJournal Article\n\n\nOther Writing"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nJournal Article\n\n\nOther Writing"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nJournal Article\n\n\nOther Writing"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\nJournal Article\n\n\nOther Writing"
+  },
+  {
+    "objectID": "writer.html",
+    "href": "writer.html",
+    "title": "Andy the Writer",
+    "section": "",
+    "text": "On AI\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "writer/ai.html",
+    "href": "writer/ai.html",
+    "title": "On AI",
+    "section": "",
+    "text": "How do I feel about AI?\nIt sucks."
   }
 ]

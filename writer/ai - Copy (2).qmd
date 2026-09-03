@@ -1,0 +1,9 @@
+---
+title: "On AI"
+about:
+  template: jolla
+---
+
+# How do I feel about AI?
+
+It sucks.

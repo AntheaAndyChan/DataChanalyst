@@ -1,0 +1,8 @@
+---
+title: "Andy the Researcher"
+about:
+  template: jolla
+listing:
+  contents: projects  # <-- the sub-directory with blog content
+  type: grid          # <-- my preferred layout type
+---

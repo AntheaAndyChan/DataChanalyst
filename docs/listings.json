@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/Markdown Page.html"
+    ]
+  },
+  {
+    "listing": "/artist.html",
+    "items": []
+  },
+  {
+    "listing": "/writer.html",
+    "items": [
+      "/writer/ai.html"
+    ]
+  }
+]

@@ -11,13 +11,22 @@ website:
       - href: about.qmd
         text: About
       - href: researcher.qmd
-        text: Andy the Researcher
+        text: The Researcher
+      - href: artist.qmd
+        text: The Artist
+      - href: writer.qmd
+        text: The Writer
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
       
 
 format:
   html:
     theme:
-      - solar
+      - vapor
+      #- quartz
     css: styles.css
     toc: true
 

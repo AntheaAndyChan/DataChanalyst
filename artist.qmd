@@ -1,0 +1,12 @@
+---
+title: "Andy the Artist" 
+lightbox: true
+---
+
+# My Work
+
+![A Lovely Image](/art/mv-1.jpg){group="my-gallery"}
+
+![A Lovely Image2](/art/mv-2.jpg){group="my-gallery"}
+
+![A Lovely Image3](/art/mv-3.png){group="my-gallery"}

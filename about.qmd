@@ -1,11 +1,31 @@
 ---
 title: "About"
-about:
-  template: jolla
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+Bloop bloop\~\~!
+
+## Education
+
+May 2018 Master of Arts in Clinical Psychology Columbia University – NYC
+
+May 2016 Bachelor of Science (with Honors) in Applied Psychology; Minor: Sociology New York University – NYC
+
+### Additional Certifications
+
+·       [Tidyverse skills for data science in R](https://www.coursera.org/account/accomplishments/specialization/NEE3GYVMB2QN) – Johns Hopkins University, Coursera
+
+·       [Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/certificates/9329947e4e7c42a7a0ba800b0664edc8) – MITx
+
+·       [Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/2234cd9bdcb34004b3412da80def5cd2?_gl=1*c6ydl0*_gcl_au*MjE0MTUyMTc1Ni4xNzYxNzYxMzE3*_ga*NTEwMTQ2NTExLjE3NjE3NjEzMDk.*_ga_D3KS4KMDT0*czE3NjE3NjEzMDkkbzEkZzEkdDE3NjE3NjEzMTckajUyJGwwJGgw) – MITx
+
+·       [Data Analysis in Social Science ](https://courses.edx.org/certificates/5e9fff2762434f8dabaad3bfe30a3f91?_gl=1*c6ydl0*_gcl_au*MjE0MTUyMTc1Ni4xNzYxNzYxMzE3*_ga*NTEwMTQ2NTExLjE3NjE3NjEzMDk.*_ga_D3KS4KMDT0*czE3NjE3NjEzMDkkbzEkZzEkdDE3NjE3NjEzMTckajUyJGwwJGgw) – MITx
+
+·       [Linear Algebra for Machine Learning](https://extendedstudies.ucsd.edu/courses/linear-algebra-for-machine-learning-cse-41287) – UCSD Extended Studies
+
+·       [Calculus I](https://extendedstudies.ucsd.edu/courses/calculus-i-math-40024) – UCSD Extended Studies
+
+## Notable Accomplishments 
+
+Creative Writing: NaNoWriMo (National Novel Writing Month) 2017 Completer, 2019 Completer; Painting; Camino de Santiago 2025 Completer

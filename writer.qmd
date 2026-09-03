@@ -1,0 +1,7 @@
+---
+title: "Andy the Writer"
+
+listing:
+  contents: writer  # <-- the sub-directory with blog content
+  type: grid          # <-- my preferred layout type
+---
